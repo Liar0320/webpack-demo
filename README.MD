@@ -50,3 +50,6 @@ https://webpack.js.org/guides/development/#using-webpack-dev-middleware
 
 ##demo12
 树形晃动 没理解 
+
+##demo12
+mini-css-extract-plugin  插件
