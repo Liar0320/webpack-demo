@@ -1,31 +1,31 @@
-####webpack 官网案例
+#### webpack 官网案例
 
-##demo1  
+## demo1  
 如何运行一个webpack 
 
-##demo2  
+## demo2  
 如何使用 webpack.config.js 
 
-##demo3 
+## demo3 
 加载其他文件 需要 配置对应 module的rules 
 
-##demo4  
+## demo4  
 输出管理
 https://webpack.js.org/guides/output-management/
 
-##demo5  
+## demo5  
 输出管理
 自动生成html
 https://webpack.js.org/guides/output-management/
 
-##demo6 
+## demo6 
 常用的清理文件的 插件
 
 clean-webpack-plugin
 
 这里将 dist删除 重新生成文件
 
-##demo7
+## demo7
 devtool: 'inline-source-map',
 源码映射 方便找出错误
 
@@ -34,22 +34,22 @@ webpack --watch
 
 https://webpack.js.org/guides/development/
 
-##demo8
+## demo8
 webpack-dev-server为您提供了一个简单的Web服务器和使用实时重新加载的能力
 
-##demo9
+## demo9
 express webpack-dev-middleware
 用 express 和 webpack-dev-middleware 搭建简单服务器
 https://webpack.js.org/guides/development/#using-webpack-dev-middleware
 
-##demo10
+## demo10
 热加载配置
 
-##demo11
+## demo11
 热加载css样式
 
-##demo12
+## demo12
 树形晃动 没理解 
 
-##demo12
+## demo12
 mini-css-extract-plugin  插件
